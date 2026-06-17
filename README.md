@@ -1,4 +1,4 @@
-# Stat_Bigdata_analysis_Competition_2022_Summer
+# covid19-sentiment-spending-analysis
 
 [전북대학교 통계학과 빅데이터 분석 경진대회(2회)](https://www.kaggle.com/competitions/statjbnu202207/overview), **우수상**
 
